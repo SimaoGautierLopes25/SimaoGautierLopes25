@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Simão!
 I’m currently learning Computer Science in FCUP.<br><br>Contacts<br>E-mail: sgl.2000@live.com.pt<br>
 
 
