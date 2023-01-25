@@ -1,5 +1,5 @@
 # Hello, I'm Simão Gautier Lopes! 👋
-- I’m currently learning Computer Science in FCUP
+I’m currently learning Computer Science in FCUP.
 
 
 ### Contacts
