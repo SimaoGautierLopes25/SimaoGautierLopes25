@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning ...
 - 
-# Contacts
+## Contacts
 E-mail: sgl.2000@live.com.pt
 Linkdedin: linkedin.com/in/simao-gautier-lopes/
